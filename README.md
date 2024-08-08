@@ -45,3 +45,14 @@ In order to get the UI where you can interact with our agent, run the following 
 ```shell
 streamlit run ai-agent/ai-agent-ui.py
 ```
+
+## Citation
+
+```
+@article{abrahamyanStackRAG,
+  title={StackRAG Agent: Improving Developer Answers with Retrieval-Augmented Generation},
+  author={Abrahamyan, Davit and Fard, Fatemeh Hendijani},
+  journal={arXiv preprint arXiv:2406.13840},
+  year={2024}
+}
+```
